@@ -1,7 +1,7 @@
 # NebulaStack Launcher
 
 <p align="center">
-  <img src="assets/launcher-logo.png" alt="NebulaStack Launcher Logo" width="700">
+  <img src="launcher-logo.png" alt="NebulaStack Launcher Logo" width="700">
 </p>
 
 <p align="center">
