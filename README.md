@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A personal launcher for games, applications, and tools within the NebulaStack ecosystem.
+  A personal launcher for games, applications, and tools within the NESTIMS ecosystem.
 </p>
 
 ## Overview
