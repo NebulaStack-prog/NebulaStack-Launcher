@@ -1,7 +1,7 @@
 # NebulaStack Launcher
 
 <p align="center">
-  <img src="launcher-logo.png" alt="NebulaStack Launcher Logo" width="700">
+  <img src="launcher-logo.png" alt="NebulaStack Launcher Logo" width="450">
 </p>
 
 <p align="center">
@@ -97,12 +97,12 @@ The launcher scans its designated directories and identifies supported file type
 
 Supported extensions:
 
-* `.exe` — Windows executables
-* `.bat` and `.cmd` — Windows command scripts
-* `.lnk` — Windows shortcuts
-* `.py` — Python scripts
-* `.jar` — Java applications
-* `.html` — HTML files opened in a web browser
+* `.exe` – Windows executables
+* `.bat` and `.cmd` – Windows command scripts
+* `.lnk` – Windows shortcuts
+* `.py` – Python scripts
+* `.jar` – Java applications
+* `.html` – HTML files opened in a web browser
 
 ## Technology Stack
 
@@ -136,8 +136,8 @@ NebulaStack Launcher/
 
 Contains the applications and games available in the launcher.
 
-* `gamer/` — games.
-* `techno/` — software, tools, and technical projects.
+* `gamer/` – games.
+* `techno/` – software, tools, and technical projects.
 
 Files can also be placed inside individual subdirectories. The launcher searches each subdirectory for a supported launchable file.
 
@@ -145,8 +145,8 @@ Files can also be placed inside individual subdirectories. The launcher searches
 
 Stores local application data.
 
-* `nebula.db` — SQLite database containing user accounts and profile collections.
-* `session.json` — locally stored login session.
+* `nebula.db` – SQLite database containing user accounts and profile collections.
+* `session.json` – locally stored login session.
 
 **Note:** These files are generated automatically. Their presence depends on whether the relevant features have been used.
 
@@ -220,12 +220,7 @@ NebulaStack Launcher is an independently developed project within the NebulaStac
 
 ## Author
 
-<p align="center"> 
-  NESTIMS
-</p>
-
 >*Technology, experimentation, and software development.*
 
-<p align="center">
-  © NESTIMS
-</p>
+© NESTIMS
+
