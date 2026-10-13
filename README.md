@@ -26,23 +26,24 @@ NebulaStack Launcher is part of the NESTIMS ecosystem, which brings together sof
 
 ### Startup Sequence
 
-![NebulaStack Launcher Startup](assets/startup.png)
+![NebulaStack Launcher Startup](NSL_4.png)
 
 ### Main Menu
 
-![NebulaStack Launcher Main Menu](assets/main-menu.png)
+![NebulaStack Launcher Main Menu](NSL_1.png)
 
 ### Gamer Zone
 
-![Gamer Zone](assets/gamer-zone.png)
+![Gamer Zone](NSL_2.png)
 
 ### Techno Zone
 
-![Techno Zone](assets/techno-zone.png)
+![Techno Zone](NSL_3.png)
 
 ### My Profile
 
-![My Profile](assets/my-profile.png)
+![My Profile](NSL_5.png)
+![My Profile](NSL_6.png)
 
 ## Features
 
