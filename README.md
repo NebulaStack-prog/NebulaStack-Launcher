@@ -221,8 +221,8 @@ NebulaStack Launcher is an independently developed project within the NebulaStac
 ## Author
 
 <p align="center"> 
-  **NESTIMS**
-</p>p>
+  NESTIMS
+</p>
 
 >*Technology, experimentation, and software development.*
 
