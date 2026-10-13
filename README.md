@@ -18,7 +18,7 @@
 
 The project provides a unified interface for launching executable files, organizing software into separate zones, and maintaining a personal collection of games and applications. It combines a custom terminal interface, animated startup sequence, user profiles, and a local database.
 
-NebulaStack Launcher is part of the NebulaStack ecosystem, which brings together software development, technology, experiments, and interactive projects.
+NebulaStack Launcher is part of the NESTIMS ecosystem, which brings together software development, technology, experiments, and interactive projects.
 
 ## Screenshots
 
@@ -179,31 +179,6 @@ Inside My Profile:
 | `/d`      | Remove the selected item from the profile |
 | `/logout` | Log out and clear the saved session       |
 | `/q`      | Return to the main menu                   |
-
-## Running from Source
-
-### Requirements
-
-* Python 3
-* Colorama
-
-Install the dependency:
-
-```bash
-pip install colorama
-```
-
-Run the launcher:
-
-```bash
-python main.py
-```
-
-To skip the startup animation:
-
-```bash
-python main.py --no-splash
-```
 
 ## Data Storage
 
