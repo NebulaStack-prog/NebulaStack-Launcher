@@ -216,7 +216,7 @@ These are potential improvements rather than features currently guaranteed by th
 
 ## Disclaimer
 
-NebulaStack Launcher is an independently developed project within the NebulaStack ecosystem. Compatibility may vary depending on the operating system, installed dependencies, and the applications being launched.
+NebulaStack Launcher is an independently developed project within the NESTIMS ecosystem. Compatibility may vary depending on the operating system, installed dependencies, and the applications being launched.
 
 ## Author
 
