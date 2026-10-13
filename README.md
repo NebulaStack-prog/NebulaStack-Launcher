@@ -152,7 +152,7 @@ Stores local application data.
 
 ## How to Use
 
-1. Download and run the launcher executable.
+1. Download and run the [launcher executable](https://github.com/NebulaStack-prog/NebulaStack-Launcher/releases/tag/v1.0.0).
 2. Wait for the startup sequence to finish.
 3. Select `GAMER ZONE`, `TECHNO ZONE`, or `MY PROFILE`.
 4. Place supported applications in the corresponding directory.
