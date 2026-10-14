@@ -20,51 +20,6 @@ The project provides a unified interface for launching executable files, organiz
 
 NebulaStack Launcher is part of the NESTIMS ecosystem, which brings together software development, technology, experiments, and interactive projects.
 
-## Screenshots (v1.0.0)
-
-### Startup Sequence
-
-![NebulaStack Launcher Startup](NSL_4.png)
-
-### Main Menu
-
-![NebulaStack Launcher Main Menu](NSL_1.png)
-
-### Gamer Zone
-
-![Gamer Zone](NSL_2.png)
-
-### Techno Zone
-
-![Techno Zone](NSL_3.png)
-
-### My Profile
-
-![My Profile](NSL_5.png)
-![My Profile](NSL_6.png)
-
-## Screenshots (v2.0.0)
-
-### Startup Sequence
-
-![NebulaStack Launcher Startup](NSL_4.png)
-
-### Main Menu
-
-![NebulaStack Launcher Main Menu](NSL_1.1.png)
-
-### Gamer Zone
-
-![Gamer Zone](NSL_2.2.png)
-
-### Techno Zone
-
-![Techno Zone](NSL_3.3.png)
-
-### My Profile
-
-![My Profile](NSL_4.4.png)
-
 ## Features
 
 ### 1. Gamer Zone
@@ -238,6 +193,51 @@ These are potential improvements rather than features currently guaranteed by th
 ## Disclaimer
 
 NebulaStack Launcher is an independently developed project within the NESTIMS ecosystem. Compatibility may vary depending on the operating system, installed dependencies, and the applications being launched.
+
+## Screenshots (v1.0.0)
+
+### Startup Sequence
+
+![NebulaStack Launcher Startup](NSL_4.png)
+
+### Main Menu
+
+![NebulaStack Launcher Main Menu](NSL_1.png)
+
+### Gamer Zone
+
+![Gamer Zone](NSL_2.png)
+
+### Techno Zone
+
+![Techno Zone](NSL_3.png)
+
+### My Profile
+
+![My Profile](NSL_5.png)
+![My Profile](NSL_6.png)
+
+## Screenshots (v2.0.0)
+
+### Startup Sequence
+
+![NebulaStack Launcher Startup](NSL_4.png)
+
+### Main Menu
+
+![NebulaStack Launcher Main Menu](NSL_1.1.png)
+
+### Gamer Zone
+
+![Gamer Zone](NSL_2.2.png)
+
+### Techno Zone
+
+![Techno Zone](NSL_3.3.png)
+
+### My Profile
+
+![My Profile](NSL_4.4.png)
 
 ## Author
 
