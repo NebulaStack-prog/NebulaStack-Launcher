@@ -20,9 +20,7 @@ The project provides a unified interface for launching executable files, organiz
 
 NebulaStack Launcher is part of the NESTIMS ecosystem, which brings together software development, technology, experiments, and interactive projects.
 
-## Screenshots
-
-<!-- Replace the image paths with your actual screenshot filenames. -->
+## Screenshots (v1.0.0)
 
 ### Startup Sequence
 
@@ -44,6 +42,28 @@ NebulaStack Launcher is part of the NESTIMS ecosystem, which brings together sof
 
 ![My Profile](NSL_5.png)
 ![My Profile](NSL_6.png)
+
+## Screenshots (v2.0.0)
+
+### Startup Sequence
+
+![NebulaStack Launcher Startup](NSL_4.png)
+
+### Main Menu
+
+![NebulaStack Launcher Main Menu](NSL_1.1.png)
+
+### Gamer Zone
+
+![Gamer Zone](NSL_2.2.png)
+
+### Techno Zone
+
+![Techno Zone](NSL_3.3.png)
+
+### My Profile
+
+![My Profile](NSL_4.4.png)
 
 ## Features
 
@@ -153,7 +173,7 @@ Stores local application data.
 
 ## How to Use
 
-1. Download and run the [launcher executable](https://github.com/NebulaStack-prog/NebulaStack-Launcher/releases/tag/v1.0.0).
+1. Download and run the launcher executable [(v1.0.0)](https://github.com/NebulaStack-prog/NebulaStack-Launcher/releases/tag/v1.0.0) [(v2.0.0)](https://github.com/NebulaStack-prog/NebulaStack-Launcher/releases/tag/v2.0.0).
 2. Wait for the startup sequence to finish.
 3. Select `GAMER ZONE`, `TECHNO ZONE`, or `MY PROFILE`.
 4. Place supported applications in the corresponding directory.
