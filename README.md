@@ -12,7 +12,7 @@
   A personal launcher for games, applications, and tools within the NESTIMS ecosystem.
 </p>
 
-## Overview
+## 📖 Overview
 
 **NebulaStack Launcher** is a desktop launcher designed to bring games, applications, and personal projects together in one place.
 
@@ -20,7 +20,7 @@ The project provides a unified interface for launching executable files, organiz
 
 NebulaStack Launcher is part of the NESTIMS ecosystem, which brings together software development, technology, experiments, and interactive projects.
 
-## Features
+## ✨️ Features
 
 ### 1. Gamer Zone
 
@@ -80,7 +80,7 @@ Supported extensions:
 * `.jar` – Java applications
 * `.html` – HTML files opened in a web browser
 
-## Technology Stack
+## 💾 Technology Stack
 
 | Technology            | Purpose                                |
 | --------------------- | -------------------------------------- |
@@ -93,7 +93,7 @@ Supported extensions:
 | `hashlib`             | Password hashing                       |
 | ANSI escape sequences | Terminal animations and visual effects |
 
-## Project Structure
+## 🗂 Project Structure
 
 The launcher automatically creates its main directories when started.
 
@@ -126,7 +126,7 @@ Stores local application data.
 
 **Note:** These files are generated automatically. Their presence depends on whether the relevant features have been used.
 
-## How to Use
+## 💻 How to Use
 
 1. Download and run the launcher executable [(v1.0.0)](https://github.com/NebulaStack-prog/NebulaStack-Launcher/releases/tag/v1.0.0) [(v2.0.0)](https://github.com/NebulaStack-prog/NebulaStack-Launcher/releases/tag/v2.0.0).
 2. Wait for the startup sequence to finish.
@@ -156,7 +156,7 @@ Inside My Profile:
 | `/logout` | Log out and clear the saved session       |
 | `/q`      | Return to the main menu                   |
 
-## Data Storage
+## 📋 Data Storage
 
 NebulaStack Launcher uses a local SQLite database to store user accounts and profile collections. Session information is stored in a JSON file.
 
@@ -164,82 +164,47 @@ The application is designed around local storage and does not require a remote d
 
 **Security note:** This project is a personal software product, not a hardened authentication system. The source version includes a default administrator account, and its original password hashing uses unsalted SHA-256. These mechanisms should be improved before distributing the launcher for use with real or sensitive accounts. Do not reuse important passwords in this application.
 
-## Project Information
+## 📄 Project Information
 
 | Property         | Value                 |
 | ---------------- | --------------------- |
 | Project          | NebulaStack Launcher  |
 | Project ID       | NS-019                |
 | Status           | Product               |
-| Ecosystem        | NebulaStack / NESTIMS |
+| Ecosystem        | NESTIMS |
 | Primary Language | Python                |
 | Database         | SQLite                |
 | Interface        | Terminal-based UI     |
 
-## Future Development
-
-Possible directions for future versions include:
-
-* A graphical interface.
-* Improved account security.
-* Expanded application metadata and descriptions.
-* Better profile management.
-* Integration with additional NebulaStack and NESTIMS projects.
-* An integrated AI assistant.
-* More flexible application discovery and organization.
-
-These are potential improvements rather than features currently guaranteed by the implementation.
-
-## Disclaimer
+## ⚠️ Disclaimer
 
 NebulaStack Launcher is an independently developed project within the NESTIMS ecosystem. Compatibility may vary depending on the operating system, installed dependencies, and the applications being launched.
 
-## Screenshots (v1.0.0)
+## 📸 Screenshots (v1.0.0)
 
-### Startup Sequence
+![](NSL_4.png)
 
-![NebulaStack Launcher Startup](NSL_4.png)
+![](NSL_1.png)
 
-### Main Menu
+![](NSL_2.png)
 
-![NebulaStack Launcher Main Menu](NSL_1.png)
+![](NSL_3.png)
 
-### Gamer Zone
+![](NSL_5.png)
 
-![Gamer Zone](NSL_2.png)
+![](NSL_6.png)
 
-### Techno Zone
+## 📸 Screenshots (v2.0.0)
 
-![Techno Zone](NSL_3.png)
+![](NSL_4.png)
 
-### My Profile
+![](NSL_1.1.png)
 
-![My Profile](NSL_5.png)
-![My Profile](NSL_6.png)
+![](NSL_2.2.png)
 
-## Screenshots (v2.0.0)
+![](NSL_3.3.png)
 
-### Startup Sequence
-
-![NebulaStack Launcher Startup](NSL_4.png)
-
-### Main Menu
-
-![NebulaStack Launcher Main Menu](NSL_1.1.png)
-
-### Gamer Zone
-
-![Gamer Zone](NSL_2.2.png)
-
-### Techno Zone
-
-![Techno Zone](NSL_3.3.png)
-
-### My Profile
-
-![My Profile](NSL_4.4.png)
-
-## Author
+![](NSL_4.4.png)
 
 >*Technology, experimentation, and software development.*
 
