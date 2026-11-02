@@ -129,10 +129,15 @@ Stores local application data.
 ## 💻 How to Use
 
 1. Download and run the launcher executable [(v1.0.0)](https://github.com/NebulaStack-prog/NebulaStack-Launcher/releases/tag/v1.0.0) [(v2.0.0)](https://github.com/NebulaStack-prog/NebulaStack-Launcher/releases/tag/v2.0.0).
+   
 2. Wait for the startup sequence to finish.
+   
 3. Select `GAMER ZONE`, `TECHNO ZONE`, or `MY PROFILE`.
+   
 4. Place supported applications in the corresponding directory.
+   
 5. Return to a zone and refresh its list if you add new files while the launcher is running.
+   
 6. Navigate using the arrow keys and press `ENTER` to launch the selected item.
 
 ### Available Commands
@@ -178,7 +183,9 @@ Inside My Profile:
 
 ## ⚠️ Disclaimer
 
-* NebulaStack Launcher is an independently developed project within the NESTIMS ecosystem. Compatibility may vary depending on the operating system, installed dependencies, and the applications being launched.
+* NebulaStack Launcher is an independently developed project within the NESTIMS ecosystem.
+  
+* Compatibility may vary depending on the operating system, installed dependencies, and the applications being launched.
 
 ## 📸 Screenshots (v1.0.0)
 
