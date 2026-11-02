@@ -14,11 +14,11 @@
 
 ## 📖 Overview
 
-**NebulaStack Launcher** is a desktop launcher designed to bring games, applications, and personal projects together in one place.
+* **NebulaStack Launcher** is a desktop launcher designed to bring games, applications, and personal projects together in one place.
 
-The project provides a unified interface for launching executable files, organizing software into separate zones, and maintaining a personal collection of games and applications. It combines a custom terminal interface, animated startup sequence, user profiles, and a local database.
+* The project provides a unified interface for launching executable files, organizing software into separate zones, and maintaining a personal collection of games and applications. It combines a custom terminal interface, animated startup sequence, user profiles, and a local database.
 
-NebulaStack Launcher is part of the NESTIMS ecosystem, which brings together software development, technology, experiments, and interactive projects.
+* NebulaStack Launcher is part of the NESTIMS ecosystem, which brings together software development, technology, experiments, and interactive projects.
 
 ## ✨️ Features
 
@@ -65,11 +65,11 @@ The sequence includes:
 
 ### 5. Bilingual Interface
 
-The Gamer Zone and Techno Zone support Russian and English interface text. Users can switch languages through launcher commands.
+* The Gamer Zone and Techno Zone support Russian and English interface text. Users can switch languages through launcher commands.
 
 ### 6. Automatic File Discovery
 
-The launcher scans its designated directories and identifies supported file types.
+* The launcher scans its designated directories and identifies supported file types.
 
 Supported extensions:
 
@@ -95,7 +95,7 @@ Supported extensions:
 
 ## 🗂 Project Structure
 
-The launcher automatically creates its main directories when started.
+* The launcher automatically creates its main directories when started.
 
 ```text
 NebulaStack Launcher/
@@ -110,12 +110,12 @@ NebulaStack Launcher/
 
 ### `games/`
 
-Contains the applications and games available in the launcher.
+* Contains the applications and games available in the launcher.
 
 * `gamer/` – games.
 * `techno/` – software, tools, and technical projects.
 
-Files can also be placed inside individual subdirectories. The launcher searches each subdirectory for a supported launchable file.
+* Files can also be placed inside individual subdirectories. The launcher searches each subdirectory for a supported launchable file.
 
 ### `data/`
 
@@ -124,7 +124,7 @@ Stores local application data.
 * `nebula.db` – SQLite database containing user accounts and profile collections.
 * `session.json` – locally stored login session.
 
-**Note:** These files are generated automatically. Their presence depends on whether the relevant features have been used.
+* **Note:** These files are generated automatically. Their presence depends on whether the relevant features have been used.
 
 ## 💻 How to Use
 
@@ -158,11 +158,11 @@ Inside My Profile:
 
 ## 📋 Data Storage
 
-NebulaStack Launcher uses a local SQLite database to store user accounts and profile collections. Session information is stored in a JSON file.
+* NebulaStack Launcher uses a local SQLite database to store user accounts and profile collections. Session information is stored in a JSON file.
 
-The application is designed around local storage and does not require a remote database for its core functionality.
+* The application is designed around local storage and does not require a remote database for its core functionality.
 
-**Security note:** This project is a personal software product, not a hardened authentication system. The source version includes a default administrator account, and its original password hashing uses unsalted SHA-256. These mechanisms should be improved before distributing the launcher for use with real or sensitive accounts. Do not reuse important passwords in this application.
+* **Security note:** This project is a personal software product, not a hardened authentication system. The source version includes a default administrator account, and its original password hashing uses unsalted SHA-256. These mechanisms should be improved before distributing the launcher for use with real or sensitive accounts. Do not reuse important passwords in this application.
 
 ## 📄 Project Information
 
@@ -178,7 +178,7 @@ The application is designed around local storage and does not require a remote d
 
 ## ⚠️ Disclaimer
 
-NebulaStack Launcher is an independently developed project within the NESTIMS ecosystem. Compatibility may vary depending on the operating system, installed dependencies, and the applications being launched.
+* NebulaStack Launcher is an independently developed project within the NESTIMS ecosystem. Compatibility may vary depending on the operating system, installed dependencies, and the applications being launched.
 
 ## 📸 Screenshots (v1.0.0)
 
@@ -205,8 +205,6 @@ NebulaStack Launcher is an independently developed project within the NESTIMS ec
 ![](NSL_3.3.png)
 
 ![](NSL_4.4.png)
-
->*Technology, experimentation, and software development.*
 
 © NESTIMS
 
