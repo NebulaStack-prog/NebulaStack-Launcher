@@ -4,104 +4,204 @@
     "name": "Calculator v.1 (Макет 1)",
     "repo": "Calculator-v.1",
     "category": "Infotech",
-    "description": "First historical calculator prototype."
+    "description": "First historical calculator prototype.",
+    "release": {
+      "version": "v1.0",
+      "name": "Calculator_v.1.exe",
+      "size": 11168857,
+      "digest": "sha256:baafee5658c518e01a907477072abb4b1bea7f4bd1d0e66139017d289ba45d78",
+      "url": "https://github.com/NebulaStack-prog/Calculator-v.1/releases/download/v1.0/Calculator_v.1.exe"
+    }
   },
   {
     "id": "NS-002",
     "name": "Friday 13 – I",
     "repo": "Friday-13-I",
     "category": "Games",
-    "description": "Classic grid survival with three difficulty levels."
+    "description": "Classic grid survival with three difficulty levels.",
+    "release": {
+      "version": "v2.0",
+      "name": "Friday13-I-v2.exe",
+      "size": 27534674,
+      "digest": "sha256:72e279312009e64bb7c26b68e477410fc8438b0e091fbc8e3244804319da24c8",
+      "url": "https://github.com/NebulaStack-prog/Friday-13-I/releases/download/v2.0/Friday13-I-v2.exe"
+    }
   },
   {
     "id": "NS-003",
     "name": "Calculator v.2 (Макет 2)",
     "repo": "Calculator-v.2",
     "category": "Infotech",
-    "description": "Second historical calculator prototype."
+    "description": "Second historical calculator prototype.",
+    "release": {
+      "version": "v1.0",
+      "name": "Calculator_v.2.exe",
+      "size": 38875826,
+      "digest": "sha256:8503b11b2ce47e5fa8ddc2f956039663dd485f48aa32c75f9f3d68cc000ef78d",
+      "url": "https://github.com/NebulaStack-prog/Calculator-v.2/releases/download/v1.0/Calculator_v.2.exe"
+    }
   },
   {
     "id": "NS-004",
     "name": "Friday 13 – II",
     "repo": "Friday-13-II",
     "category": "Games",
-    "description": "Endless procedurally generated world."
+    "description": "Endless procedurally generated world.",
+    "release": {
+      "version": "v2.0",
+      "name": "Friday13-II-v2.exe",
+      "size": 27526481,
+      "digest": "sha256:ef74fda82ead3f1f6920ec4c291173cb784f13151a73c2c29cf9d4a7c59aebc2",
+      "url": "https://github.com/NebulaStack-prog/Friday-13-II/releases/download/v2.0/Friday13-II-v2.exe"
+    }
   },
   {
     "id": "NS-006",
     "name": "Industrial Zero",
     "repo": "Hunter-Mike",
     "category": "Games",
-    "description": "Industrial Zero game."
+    "description": "Industrial Zero game.",
+    "release": {
+      "version": "v1.0.0",
+      "name": "Industrial_Zero.exe",
+      "size": 27528324,
+      "digest": "sha256:b6637fb8ae784b060220cae75a1ef71ce2f04b2997969fc7a52b8582b22faa8b",
+      "url": "https://github.com/NebulaStack-prog/Hunter-Mike/releases/download/v1.0.0/Industrial_Zero.exe"
+    }
   },
   {
     "id": "NS-007",
     "name": "Tetris",
     "repo": "Tetris",
     "category": "Games",
-    "description": "Classic block puzzle game."
+    "description": "Classic block puzzle game.",
+    "release": {
+      "version": "v1.0",
+      "name": "Tetris.exe",
+      "size": 27045113,
+      "digest": "sha256:c6789bbd8f7be7b6e18f52b4a6f3b347d413c9cfc3305cd4977c673e00e91e83",
+      "url": "https://github.com/NebulaStack-prog/Tetris/releases/download/v1.0/Tetris.exe"
+    }
   },
   {
     "id": "NS-008",
     "name": "Calculator v.3",
     "repo": "Calculator-v.3",
     "category": "Infotech",
-    "description": "Third version of the calculator."
+    "description": "Third version of the calculator.",
+    "release": {
+      "version": "v1.0",
+      "name": "Calculator_v.3.exe",
+      "size": 38876528,
+      "digest": "sha256:be07fa75f8b3d09cae9e186629f14a705e454b0d4273206cf1702470ab591c9b",
+      "url": "https://github.com/NebulaStack-prog/Calculator-v.3/releases/download/v1.0/Calculator_v.3.exe"
+    }
   },
   {
     "id": "NS-009",
     "name": "Void Run",
     "repo": "Void-Run",
     "category": "Games",
-    "description": "Void Run game."
+    "description": "Void Run game.",
+    "release": {
+      "version": "v1.0",
+      "name": "Void_Run.exe",
+      "size": 30609261,
+      "digest": "sha256:b576cf5967e381156aa335eae7961c03d7e1804af9c0ae6afaee6a29cf9943cb",
+      "url": "https://github.com/NebulaStack-prog/Void-Run/releases/download/v1.0/Void_Run.exe"
+    }
   },
   {
     "id": "NS-011",
     "name": "Lazy Clock",
     "repo": "Lazy-Clock",
     "category": "Infotech",
-    "description": "Desktop clock application."
+    "description": "Desktop clock application.",
+    "release": {
+      "version": "v1.0.0",
+      "name": "LazyClock.exe",
+      "size": 46050723,
+      "digest": "sha256:31cd11d04a463754257929ec76e27646b4d713bbbe05f568a10e57243c016d81",
+      "url": "https://github.com/NebulaStack-prog/Lazy-Clock/releases/download/v1.0.0/LazyClock.exe"
+    }
   },
   {
     "id": "NS-012",
     "name": "Painter",
     "repo": "Painter",
     "category": "Infotech",
-    "description": "Desktop drawing and painting editor."
+    "description": "Desktop drawing and painting editor.",
+    "release": null,
+    "release_note": "JAR package only; Windows EXE required by this launcher version."
   },
   {
     "id": "NS-013",
     "name": "Tic Tac Toe",
     "repo": "Tic-Tac-Toe",
     "category": "Games",
-    "description": "Classic tic-tac-toe game."
+    "description": "Classic tic-tac-toe game.",
+    "release": {
+      "version": "v1.0.0",
+      "name": "TicTacToe.exe",
+      "size": 27517647,
+      "digest": "sha256:90a4b48b7b256c36aa4f933ba3ddd41b1f5419c49ce63948b57f7ab483520744",
+      "url": "https://github.com/NebulaStack-prog/Tic-Tac-Toe/releases/download/v1.0.0/TicTacToe.exe"
+    }
   },
   {
     "id": "NS-014",
     "name": "Tetro Rally",
     "repo": "Tetro-Rally",
     "category": "Games",
-    "description": "Competitive block puzzle game against a heuristic bot."
+    "description": "Competitive block puzzle game against a heuristic bot.",
+    "release": {
+      "version": "v1.0.0",
+      "name": "TetroRally.exe",
+      "size": 27525782,
+      "digest": "sha256:5768821606241fcb8b4cbfb36a29b45fbbe1f25dc2c6eb146043704affb0f0cf",
+      "url": "https://github.com/NebulaStack-prog/Tetro-Rally/releases/download/v1.0.0/TetroRally.exe"
+    }
   },
   {
     "id": "NS-018",
     "name": "Filer Quest",
     "repo": "Filer-Quest",
     "category": "Infotech",
-    "description": "Filer Quest application."
+    "description": "Filer Quest application.",
+    "release": {
+      "version": "v1.0.0",
+      "name": "FilerQuest.exe",
+      "size": 8074109,
+      "digest": "sha256:05d0d87e813b4ae5da461d232bc09d3949effed2098e5f7b9ff8d580de081001",
+      "url": "https://github.com/NebulaStack-prog/Filer-Quest/releases/download/v1.0.0/FilerQuest.exe"
+    }
   },
   {
     "id": "NS-021",
     "name": "The One",
     "repo": "The-One",
     "category": "Games",
-    "description": "Atmospheric horror game."
+    "description": "Atmospheric horror game.",
+    "release": {
+      "version": "v1.0.0",
+      "name": "TheOne.exe",
+      "size": 59254759,
+      "digest": "sha256:6a6d9117358b36f439bd2f6798c38378787639fc31d7a8758f0073b61a5c8eab",
+      "url": "https://github.com/NebulaStack-prog/The-One/releases/download/v1.0.0/TheOne.exe"
+    }
   },
   {
     "id": "NS-022",
     "name": "Friday 13 – III",
     "repo": "Friday-13-III",
     "category": "Games",
-    "description": "Third installment of Friday 13."
+    "description": "Third installment of Friday 13.",
+    "release": {
+      "version": "v1.0.0",
+      "name": "Friday13-III.exe",
+      "size": 27523988,
+      "digest": "sha256:d6ac28e2cf307f682d523fadca0423285dfee12d6110680ff4abe471deb623e1",
+      "url": "https://github.com/NebulaStack-prog/Friday-13-III/releases/download/v1.0.0/Friday13-III.exe"
+    }
   }
 ]
