@@ -1,0 +1,16 @@
+[
+  {
+    "id": "NS-002",
+    "name": "Friday 13 – I",
+    "repo": "Friday-13-I",
+    "category": "Games",
+    "description": "Classic grid survival with three difficulty levels."
+  },
+  {
+    "id": "NS-004",
+    "name": "Friday 13 – II",
+    "repo": "Friday-13-II",
+    "category": "Games",
+    "description": "Endless procedurally generated world."
+  }
+]
