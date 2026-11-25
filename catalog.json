@@ -132,7 +132,15 @@
     "category": "Infotech",
     "description": "Desktop drawing and painting editor.",
     "release": null,
-    "release_note": "JAR package only; Windows EXE required by this launcher version."
+    "release_note": "JAR package; requires Launcher Alpha 3.4 or newer and compatible Java runtime.",
+    "jar_release": {
+      "version": "v1.0.0",
+      "name": "Painter.jar",
+      "size": 37647,
+      "digest": "sha256:26d1521629ef8cd3e660d3ba1fe5b7795ce1ec3651dec8d9ba710ebc89d4fe73",
+      "url": "https://github.com/NebulaStack-prog/Painter/releases/download/v1.0.0/Painter.jar",
+      "package_type": "jar"
+    }
   },
   {
     "id": "NS-013",
