@@ -1,5 +1,12 @@
 [
   {
+    "id": "NS-001",
+    "name": "Calculator v.1 (Макет 1)",
+    "repo": "Calculator-v.1",
+    "category": "Infotech",
+    "description": "First historical calculator prototype."
+  },
+  {
     "id": "NS-002",
     "name": "Friday 13 – I",
     "repo": "Friday-13-I",
@@ -7,10 +14,94 @@
     "description": "Classic grid survival with three difficulty levels."
   },
   {
+    "id": "NS-003",
+    "name": "Calculator v.2 (Макет 2)",
+    "repo": "Calculator-v.2",
+    "category": "Infotech",
+    "description": "Second historical calculator prototype."
+  },
+  {
     "id": "NS-004",
     "name": "Friday 13 – II",
     "repo": "Friday-13-II",
     "category": "Games",
     "description": "Endless procedurally generated world."
+  },
+  {
+    "id": "NS-006",
+    "name": "Industrial Zero",
+    "repo": "Hunter-Mike",
+    "category": "Games",
+    "description": "Industrial Zero game."
+  },
+  {
+    "id": "NS-007",
+    "name": "Tetris",
+    "repo": "Tetris",
+    "category": "Games",
+    "description": "Classic block puzzle game."
+  },
+  {
+    "id": "NS-008",
+    "name": "Calculator v.3",
+    "repo": "Calculator-v.3",
+    "category": "Infotech",
+    "description": "Third version of the calculator."
+  },
+  {
+    "id": "NS-009",
+    "name": "Void Run",
+    "repo": "Void-Run",
+    "category": "Games",
+    "description": "Void Run game."
+  },
+  {
+    "id": "NS-011",
+    "name": "Lazy Clock",
+    "repo": "Lazy-Clock",
+    "category": "Infotech",
+    "description": "Desktop clock application."
+  },
+  {
+    "id": "NS-012",
+    "name": "Painter",
+    "repo": "Painter",
+    "category": "Infotech",
+    "description": "Desktop drawing and painting editor."
+  },
+  {
+    "id": "NS-013",
+    "name": "Tic Tac Toe",
+    "repo": "Tic-Tac-Toe",
+    "category": "Games",
+    "description": "Classic tic-tac-toe game."
+  },
+  {
+    "id": "NS-014",
+    "name": "Tetro Rally",
+    "repo": "Tetro-Rally",
+    "category": "Games",
+    "description": "Competitive block puzzle game against a heuristic bot."
+  },
+  {
+    "id": "NS-018",
+    "name": "Filer Quest",
+    "repo": "Filer-Quest",
+    "category": "Infotech",
+    "description": "Filer Quest application."
+  },
+  {
+    "id": "NS-021",
+    "name": "The One",
+    "repo": "The-One",
+    "category": "Games",
+    "description": "Atmospheric horror game."
+  },
+  {
+    "id": "NS-022",
+    "name": "Friday 13 – III",
+    "repo": "Friday-13-III",
+    "category": "Games",
+    "description": "Third installment of Friday 13."
   }
 ]
