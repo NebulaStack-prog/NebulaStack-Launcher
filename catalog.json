@@ -76,11 +76,11 @@
     "category": "Games",
     "description": "Classic block puzzle game.",
     "release": {
-      "version": "v1.0",
-      "name": "Tetris.exe",
-      "size": 27045113,
-      "digest": "sha256:c6789bbd8f7be7b6e18f52b4a6f3b347d413c9cfc3305cd4977c673e00e91e83",
-      "url": "https://github.com/NebulaStack-prog/Tetris/releases/download/v1.0/Tetris.exe"
+      "version": "v2.0",
+      "name": "Tetris-v2.exe",
+      "size": 27523312,
+      "digest": "sha256:d3e38e8a1dc54a9c46c040ee6a2f305495009a55e5036db0ad9e173e3543cf81",
+      "url": "https://github.com/NebulaStack-prog/Tetris/releases/download/v2.0/Tetris-v2.exe"
     }
   },
   {
