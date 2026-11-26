@@ -12,6 +12,15 @@
   A personal launcher for games, applications, and tools within the NESTIMS ecosystem.
 </p>
 
+| Project Information | Details |
+|---|---|
+| Project ID | NS-019 |
+| Direction | Infotech |
+| Development Phase | Phase II |
+| Version | v2.0.0 |
+| Platform | Windows / Python |
+| Status | Product |
+
 ## 📖 Overview
 
 * **NebulaStack Launcher** is a desktop launcher designed to bring games, applications, and personal projects together in one place.
