@@ -118,11 +118,11 @@
     "category": "Infotech",
     "description": "Desktop clock application.",
     "release": {
-      "version": "v1.0.0",
+      "version": "v2.0",
       "name": "LazyClock.exe",
       "size": 46050723,
       "digest": "sha256:31cd11d04a463754257929ec76e27646b4d713bbbe05f568a10e57243c016d81",
-      "url": "https://github.com/NebulaStack-prog/Lazy-Clock/releases/download/v1.0.0/LazyClock.exe"
+      "url": "https://github.com/NebulaStack-prog/Lazy-Clock/releases/tag/v2.0"
     }
   },
   {
@@ -177,11 +177,11 @@
     "category": "Infotech",
     "description": "Filer Quest application.",
     "release": {
-      "version": "v1.0.0",
+      "version": "v2.0",
       "name": "FilerQuest.exe",
       "size": 8074109,
       "digest": "sha256:05d0d87e813b4ae5da461d232bc09d3949effed2098e5f7b9ff8d580de081001",
-      "url": "https://github.com/NebulaStack-prog/Filer-Quest/releases/download/v1.0.0/FilerQuest.exe"
+      "url": "https://github.com/NebulaStack-prog/Filer-Quest/releases/download/v2.0/FilerQuest-v2.exe"
     }
   },
   {
