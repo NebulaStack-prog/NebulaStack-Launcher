@@ -119,10 +119,10 @@
     "description": "Desktop clock application.",
     "release": {
       "version": "v2.0",
-      "name": "LazyClock.exe",
-      "size": 46050723,
-      "digest": "sha256:31cd11d04a463754257929ec76e27646b4d713bbbe05f568a10e57243c016d81",
-      "url": "https://github.com/NebulaStack-prog/Lazy-Clock/releases/tag/v2.0"
+      "name": "LazyClock-v2.exe",
+      "size": 46057558,
+      "digest": "sha256:4cb7131d6da8a67484e25d5ae29e65e380502c0e6f5f1d8e2f0c9857b327e4a0",
+      "url": "https://github.com/NebulaStack-prog/Lazy-Clock/releases/download/v2.0/LazyClock-v2.exe"
     }
   },
   {
@@ -178,9 +178,9 @@
     "description": "Filer Quest application.",
     "release": {
       "version": "v2.0",
-      "name": "FilerQuest.exe",
-      "size": 8074109,
-      "digest": "sha256:05d0d87e813b4ae5da461d232bc09d3949effed2098e5f7b9ff8d580de081001",
+      "name": "FilerQuest-v2.exe",
+      "size": 8182606,
+      "digest": "sha256:d71e71bfff8e5552ac751b9d22b833108d251a0a74f2c6d5ec86a0a520d657c9",
       "url": "https://github.com/NebulaStack-prog/Filer-Quest/releases/download/v2.0/FilerQuest-v2.exe"
     }
   },
