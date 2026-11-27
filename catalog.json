@@ -211,5 +211,19 @@
       "digest": "sha256:d6ac28e2cf307f682d523fadca0423285dfee12d6110680ff4abe471deb623e1",
       "url": "https://github.com/NebulaStack-prog/Friday-13-III/releases/download/v1.0.0/Friday13-III.exe"
     }
+  },
+  {
+    "id": "NS-024",
+    "name": "DrosoPath",
+    "repo": "Droso-Path",
+    "category": "Infotech",
+    "description": "Bio-inspired navigation simulator for odor sensing, spatial memory and comparative experiments.",
+    "release": {
+      "version": "v0.1.0",
+      "name": "DrosoPath.exe",
+      "size": 11189137,
+      "digest": "sha256:45413988208cec02c27daeb44f02c8a1f7a9a9dd1817929567979abe31443473",
+      "url": "https://github.com/NebulaStack-prog/Droso-Path/releases/download/v0.1.0/DrosoPath.exe"
+    }
   }
 ]
